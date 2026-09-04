@@ -17,6 +17,10 @@ Arduino clock that shows time on a TM1637 4-digit display, keeps time with a DS1
 
 Open `LED_Clock/LED_Clock.ino` in the Arduino IDE. Libraries used include `RTClib`, `MsTimer2`, `NSEncoder`, and `TM1637TinyDisplay`.
 
+## Requirements
+
+- Arduino IDE
+
 ## Attribution and provenance
 
 Dave Robinson / VaderConsulting sketch from the Arduino archive. Depends on third-party libraries (Adafruit RTClib, MsTimer2, Lester Lo Notched Shaft Encoder, Jason Cox TM1637TinyDisplay) which live in sibling repos, not this tree.
