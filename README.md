@@ -2,6 +2,8 @@
 
 Arduino clock that shows time on a TM1637 4-digit display, keeps time with a DS1307 RTC (`RTClib`), and uses a notched-shaft encoder to set hours and minutes. MsTimer2 runs the encoder button task. Written for Dave Robinson's bench hardware; comments point at Lester Lo's encoder, TM1637TinyDisplay, and Arduino forum notes.
 
+Working copy from my Historical Dev folder.
+
 **Source last updated:** 2021-02-01  
 **Language:** C++ / Arduino  
 **Target:** Arduino AVR with I2C RTC, TM1637, rotary encoder  
